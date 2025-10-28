@@ -55,9 +55,7 @@ export default function Home() {
               <a href="#experience" className="text-slate-300 hover:text-blue-400 transition-colors">
                 Experience
               </a>
-              <a href="#contact" className="text-slate-300 hover:text-blue-400 transition-colors">
-                Contact
-              </a>
+              
             </div>
             <a
               href="#contact"
@@ -110,13 +108,13 @@ export default function Home() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-white">About</h2>
               <p className="text-slate-300 leading-relaxed mb-6">
-                Innovative Quality Engineering Leader specializing in AI-augmented testing and advanced quality
+                Innovative Quality Engineering Leader specialising in AI-augmented testing and advanced quality
                 assurance strategies. Proven track record of transforming testing methodologies, implementing
                 cutting-edge automation frameworks, and driving quality excellence in mission-critical and
                 high-performance technology environments.
               </p>
               <p className="text-slate-300 leading-relaxed mb-6">
-                Expert in developing and executing strategic visions, optimizing processes, architecting scalable and
+                Expert in developing and executing strategic visions, optimising processes, architecting scalable and
                 resilient systems, and fostering a culture of continuous improvement. Strong commitment to diversity,
                 team empowerment, and delivering measurable results.
               </p>
@@ -165,7 +163,7 @@ export default function Home() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
                   <div className="text-blue-400 font-semibold mb-2">AI-Augmented Testing</div>
-                  <div className="text-sm text-slate-400">Intelligent test generation and optimization</div>
+                  <div className="text-sm text-slate-400">Intelligent test generation and optimisation</div>
                 </div>
                 <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
                   <div className="text-blue-400 font-semibold mb-2">Test Automation</div>
@@ -181,7 +179,7 @@ export default function Home() {
                 </div>
                 <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
                   <div className="text-blue-400 font-semibold mb-2">Performance Engineering</div>
-                  <div className="text-sm text-slate-400">Load testing and optimization</div>
+                  <div className="text-sm text-slate-400">Load testing and optimisation</div>
                 </div>
                 <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
                   <div className="text-blue-400 font-semibold mb-2">Strategic Leadership</div>
@@ -199,7 +197,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4 text-white">Services</h2>
             <p className="text-xl text-slate-400 max-w-3xl mx-auto">
-              Comprehensive quality engineering solutions tailored to your organization&apos;s needs
+              Comprehensive quality engineering solutions tailored to your organisation&apos;s needs
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -216,7 +214,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-white">AI-Driven Test Strategy</h3>
               <p className="text-slate-400 leading-relaxed">
-                Implement intelligent test generation and optimization frameworks that reduce test cycle time by up to
+                Implement intelligent test generation and optimisation frameworks that reduce test cycle time by up to
                 60% while improving coverage.
               </p>
             </div>
@@ -250,7 +248,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-white">Cloud-Native Quality Assurance</h3>
               <p className="text-slate-400 leading-relaxed">
-                Architect scalable testing strategies for AWS and Azure environments with containerization using Docker
+                Architect scalable testing strategies for AWS and Azure environments with containerisation using Docker
                 and Kubernetes.
               </p>
             </div>
@@ -423,7 +421,7 @@ export default function Home() {
                 </li>
                 <li className="flex gap-3">
                   <span className="text-blue-400 mt-1">•</span>
-                  <span>Implemented AI test optimization reducing test cycle time by 60%</span>
+                  <span>Implemented AI test optimisation reducing test cycle time by 60%</span>
                 </li>
                 <li className="flex gap-3">
                   <span className="text-blue-400 mt-1">•</span>
@@ -577,7 +575,7 @@ export default function Home() {
             <h2 className="text-4xl font-bold mb-6 text-white">Get in Touch</h2>
             <p className="text-xl text-slate-400 mb-12">
               Ready to transform your quality engineering strategy? Let&apos;s discuss how Cognition Laboratories can
-              help your organization achieve excellence.
+              help your organisation achieve excellence.
             </p>
             <div className="bg-slate-800/50 border border-slate-700 rounded-xl p-8">
               <div className="space-y-6">
@@ -609,8 +607,8 @@ export default function Home() {
                   <div className="text-sm text-slate-400 mb-2">Business Details</div>
                   <div className="text-slate-300">
                     <div className="font-semibold">Cognition Laboratories Ltd</div>
-                    <div className="text-sm mt-2">UK-Based Quality Engineering Consultancy</div>
-                    <div className="text-sm">Stockport, United Kingdom</div>
+                    <div className="text-sm">Company Registration Number: 15936898</div>
+                    <div className="text-sm">Manchester, United Kingdom</div>
                   </div>
                 </div>
               </div>

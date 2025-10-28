@@ -6,7 +6,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "Cognition Laboratories Ltd - AI-Augmented Quality Engineering",
   description:
-    "UK-Based Quality Engineering Consultancy specializing in AI-augmented testing and advanced quality assurance strategies",
+    "UK-Based Quality Engineering Consultancy specialising in AI-augmented testing and advanced quality assurance strategies",
   generator: "v0.app",
 }
 
