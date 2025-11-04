@@ -128,8 +128,8 @@ export default function Home() {
                       d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                     ></path>
                   </svg>
-                  <a href="mailto:john.shand06@gmail.com" className="hover:text-blue-400 transition-colors">
-                    john.shand06@gmail.com
+                  <a href="mailto:john@coglabs.ai" className="hover:text-blue-400 transition-colors">
+                    john@coglabs.ai
                   </a>
                 </div>
                 <div className="flex items-center gap-3 text-slate-300">
@@ -582,10 +582,10 @@ export default function Home() {
                 <div>
                   <div className="text-sm text-slate-400 mb-2">Email</div>
                   <a
-                    href="mailto:john.shand06@gmail.com"
+                    href="mailto:john@coglabs.ai"
                     className="text-xl text-blue-400 hover:text-blue-300 transition-colors"
                   >
-                    john.shand06@gmail.com
+                    john@coglabs.ai
                   </a>
                 </div>
                 <div>
