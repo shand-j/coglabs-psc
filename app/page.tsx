@@ -1,8 +1,10 @@
 "use client"
 
-import { useEffect } from "react"
+import { useEffect, useState } from "react"
+import Navbar from "../components/Navbar"
 
 export default function Home() {
+
   useEffect(() => {
     // Smooth scrolling with offset for fixed header
     const handleClick = (e: MouseEvent) => {
@@ -10,7 +12,7 @@ export default function Home() {
       if (target.tagName === "A" && target.getAttribute("href")?.startsWith("#")) {
         e.preventDefault()
         const targetId = target.getAttribute("href")
-        if (targetId === "#") return
+        if (targetId === "#" || !targetId) return
 
         const targetElement = document.querySelector(targetId)
         if (targetElement) {
@@ -32,40 +34,7 @@ export default function Home() {
 
   return (
     <div className="bg-slate-950 text-slate-100">
-      {/* Navigation */}
-      <nav className="fixed top-0 left-0 right-0 bg-slate-900/95 backdrop-blur-sm border-b border-slate-800 z-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-20">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">CL</span>
-              </div>
-              <div>
-                <div className="text-xl font-bold text-white">Cognition Laboratories</div>
-                <div className="text-xs text-slate-400">Quality Engineering Excellence</div>
-              </div>
-            </div>
-            <div className="hidden md:flex gap-8">
-              <a href="#about" className="text-slate-300 hover:text-blue-400 transition-colors">
-                About
-              </a>
-              <a href="#services" className="text-slate-300 hover:text-blue-400 transition-colors">
-                Services
-              </a>
-              <a href="#experience" className="text-slate-300 hover:text-blue-400 transition-colors">
-                Experience
-              </a>
-              
-            </div>
-            <a
-              href="#contact"
-              className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg transition-colors"
-            >
-              Get in Touch
-            </a>
-          </div>
-        </div>
-      </nav>
+      <Navbar />
 
       {/* Hero Section */}
       <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
@@ -232,7 +201,7 @@ export default function Home() {
               <h3 className="text-xl font-bold mb-3 text-white">Test Automation Frameworks</h3>
               <p className="text-slate-400 leading-relaxed">
                 Design and implement comprehensive E2E, API, and contract testing solutions using Playwright, Cypress,
-                PACT, and K6.
+                PACT, and K6. <a href="/contract-testing-guide" className="text-blue-400 hover:underline">Learn more about Contract Testing</a>.
               </p>
             </div>
             <div className="bg-slate-800/50 border border-slate-700 rounded-xl p-8 card-hover">
@@ -282,7 +251,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-white">Team Development & Mentoring</h3>
               <p className="text-slate-400 leading-relaxed">
-                Build and upskill QA teams with career frameworks, internal academies, and hands-on mentoring in modern
+                Build and up-skill QA teams with career frameworks, internal academies, and hands-on mentoring in modern
                 testing practices.
               </p>
             </div>
@@ -450,7 +419,7 @@ export default function Home() {
               <p className="text-slate-300 mb-4 leading-relaxed">
                 Led the transformation of test strategy with an automation-first approach across multiple SCRUM teams,
                 evolving into a strategic leadership and mentoring role. Enabled high-velocity software delivery and
-                launched an internal academy to upskill in test automation.
+                launched an internal academy to up-skill in test automation.
               </p>
               <ul className="space-y-2 text-slate-300">
                 <li className="flex gap-3">
