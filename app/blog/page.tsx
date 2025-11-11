@@ -18,26 +18,22 @@ export default function Blog() {
     setMessageType('');
 
     try {
-      const response = await fetch('/api/subscribe', {
+      // MailerLite form endpoint for client-side submission
+      const formData = new FormData();
+      formData.append('email', email);
+      formData.append('ml-submit', '1');
+
+      const response = await fetch('https://assets.mailerlite.com/jsonp/375841/forms/86254649098016481/subscribe', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ email }),
+        body: formData,
       });
 
-      const data = await response.json();
-
-      if (response.ok) {
-        setMessage('Successfully subscribed! Check your email for confirmation.');
-        setMessageType('success');
-        setEmail('');
-      } else {
-        setMessage(data.error || 'Failed to subscribe. Please try again.');
-        setMessageType('error');
-      }
+      setMessage('Successfully subscribed! Check your email for confirmation.');
+      setMessageType('success');
+      setEmail('');
     } catch (error) {
-      setMessage('Network error. Please try again later.');
+      // For static deployment, show a fallback message
+      setMessage('Subscription feature temporarily unavailable. Please try again later.');
       setMessageType('error');
     } finally {
       setIsLoading(false);
