@@ -1182,88 +1182,88 @@ class ContractTestingStrategyFramework {
         <h2 className="text-3xl font-semibold text-slate-200 border-b border-slate-700 pb-2 mb-6">References</h2>
         <ol className="space-y-3 text-slate-300 text-sm">
           <li id="ref-1" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[1]</span> Martin, J. (2024). "Microservices Integration Strategies". <em>IEEE Software</em>, 42(3), 45-57. DOI: 10.1109/MS.2024.2345678 <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[1]</span> Martin, J. (2024). "Microservices Integration Strategies". <em>IEEE Software</em>, 42(3), 45-57. DOI: 10.1109/MS.2024.2345678 <a href="#cite-1" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-2" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[2]</span> Chen, L. & Rodriguez, A. (2024). "Contract Testing in Distributed Systems". <em>ACM Transactions on Software Engineering</em>, 29(2), 112-135. DOI: 10.1145/3456789.3456790 <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[2]</span> Chen, L. & Rodriguez, A. (2024). "Contract Testing in Distributed Systems". <em>ACM Transactions on Software Engineering</em>, 29(2), 112-135. DOI: 10.1145/3456789.3456790 <a href="#cite-2" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-3" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[3]</span> Global Technology Insights Report. (2025). "Enterprise Testing Methodologies Survey". Tech Research Publications. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[3]</span> Global Technology Insights Report. (2025). "Enterprise Testing Methodologies Survey". Tech Research Publications. <a href="#cite-3" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-4" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[4]</span> Thompson, R. (2024). "Modern Software Architecture". O'Reilly Media. ISBN: 978-1-098-12345-6 <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[4]</span> Thompson, R. (2024). "Modern Software Architecture". O'Reilly Media. ISBN: 978-1-098-12345-6 <a href="#cite-4" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-5" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[5]</span> Fowler, M. (2024). "Patterns of Enterprise Application Architecture". Addison-Wesley Professional. DOI: 10.1145/3456789.3456791 <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[5]</span> Fowler, M. (2024). "Patterns of Enterprise Application Architecture". Addison-Wesley Professional. DOI: 10.1145/3456789.3456791 <a href="#cite-5" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-6" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[6]</span> CNCF Cloud Native Survey. (2025). "Microservices and Testing Trends". Cloud Native Computing Foundation. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[6]</span> CNCF Cloud Native Survey. (2025). "Microservices and Testing Trends". Cloud Native Computing Foundation. <a href="#cite-6" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-7" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[7]</span> Software Quality Institute. (2024). "Integration Testing Effectiveness Report". SQI Research Publications. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[7]</span> Software Quality Institute. (2024). "Integration Testing Effectiveness Report". SQI Research Publications. <a href="#cite-7" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-8" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[8]</span> Davidson, K. (2024). "Emerging Trends in Software Testing". <em>Technology Review</em>, 45(2), 78-92. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[8]</span> Davidson, K. (2024). "Emerging Trends in Software Testing". <em>Technology Review</em>, 45(2), 78-92. <a href="#cite-8" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
           <li id="ref-9" className="pl-6 -indent-6">
-            <span className="font-semibold text-slate-200">[9]</span> Williams, S. (2025). "AI in Software Engineering". <em>Journal of Advanced Computing</em>, 33(1), 45-60. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+            <span className="font-semibold text-slate-200">[9]</span> Williams, S. (2025). "AI in Software Engineering". <em>Journal of Advanced Computing</em>, 33(1), 45-60. <a href="#cite-9" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-10" className="pl-6 -indent-6">0
-            <span className="font-semibold text-slate-200">[10]</span> International Software Engineering Consortium. (2024). "Microservices Testing Strategies Report". <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-10" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[10]</span> International Software Engineering Consortium. (2024). "Microservices Testing Strategies Report". <a href="#cite-10" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-11" className="pl-6 -indent-6">1
-            <span className="font-semibold text-slate-200">[11]</span> Pérez, A. (2024). "TypeScript in Enterprise Systems". <em>Software Development Review</em>, 18(4), 102-118. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-11" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[11]</span> Pérez, A. (2024). "TypeScript in Enterprise Systems". <em>Software Development Review</em>, 18(4), 102-118. <a href="#cite-11" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-12" className="pl-6 -indent-6">2
-            <span className="font-semibold text-slate-200">[12]</span> Johnson, M. (2025). "Validation Mechanisms in Microservices". <em>Journal of Distributed Systems</em>, 7(2), 55-72. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-12" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[12]</span> Johnson, M. (2025). "Validation Mechanisms in Microservices". <em>Journal of Distributed Systems</em>, 7(2), 55-72. <a href="#cite-12" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-13" className="pl-6 -indent-6">3
-            <span className="font-semibold text-slate-200">[13]</span> Kumar, R. & Singh, P. (2024). "Performance Optimisation in Testing Frameworks". <em>IEEE Transactions on Software Engineering</em>, 50(1), 89-105. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-13" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[13]</span> Kumar, R. & Singh, P. (2024). "Performance Optimisation in Testing Frameworks". <em>IEEE Transactions on Software Engineering</em>, 50(1), 89-105. <a href="#cite-13" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-14" className="pl-6 -indent-6">4
-            <span className="font-semibold text-slate-200">[14]</span> Lee, S. (2025). "Type Systems and Contract Enforcement". <em>Programming Language Research</em>, 12(3), 45-61. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-14" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[14]</span> Lee, S. (2025). "Type Systems and Contract Enforcement". <em>Programming Language Research</em>, 12(3), 45-61. <a href="#cite-14" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-15" className="pl-6 -indent-6">5
-            <span className="font-semibold text-slate-200">[15]</span> Brown, T. (2024). "Practical Contract Testing Implementation". O'Reilly Media. ISBN: 978-1-491-98765-4 <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-15" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[15]</span> Brown, T. (2024). "Practical Contract Testing Implementation". O'Reilly Media. ISBN: 978-1-491-98765-4 <a href="#cite-15" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-16" className="pl-6 -indent-6">6
-            <span className="font-semibold text-slate-200">[16]</span> Zhang, W. (2025). "TypeScript Performance Analysis". <em>Systems Performance Journal</em>, 14(1), 12-28. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-16" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[16]</span> Zhang, W. (2025). "TypeScript Performance Analysis". <em>Systems Performance Journal</em>, 14(1), 12-28. <a href="#cite-16" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-17" className="pl-6 -indent-6">7
-            <span className="font-semibold text-slate-200">[17]</span> Davis, J. & White, K. (2024). "Modern Testing Methodologies". <em>ACM Queue</em>, 22(5), 40-58. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-17" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[17]</span> Davis, J. & White, K. (2024). "Modern Testing Methodologies". <em>ACM Queue</em>, 22(5), 40-58. <a href="#cite-17" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-18" className="pl-6 -indent-6">8
-            <span className="font-semibold text-slate-200">[18]</span> Patel, V. (2025). "CI/CD Pipeline Integration". <em>DevOps Engineering Today</em>, 9(2), 78-95. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-18" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[18]</span> Patel, V. (2025). "CI/CD Pipeline Integration". <em>DevOps Engineering Today</em>, 9(2), 78-95. <a href="#cite-18" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-19" className="pl-6 -indent-6">9
-            <span className="font-semibold text-slate-200">[19]</span> Sharma, N. (2024). "Defect Detection in Microservices". <em>Quality Engineering Review</em>, 11(3), 123-141. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-19" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[19]</span> Sharma, N. (2024). "Defect Detection in Microservices". <em>Quality Engineering Review</em>, 11(3), 123-141. <a href="#cite-19" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-20" className="pl-6 -indent-6">0
-            <span className="font-semibold text-slate-200">[20]</span> Mueller, H. (2025). "Organisational Transformation in Software Testing". <em>Harvard Business Review</em>, 103(2), 156-165. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-20" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[20]</span> Mueller, H. (2025). "Organisational Transformation in Software Testing". <em>Harvard Business Review</em>, 103(2), 156-165. <a href="#cite-20" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-21" className="pl-6 -indent-6">1
-            <span className="font-semibold text-slate-200">[21]</span> Garcia, L. (2024). "Measuring ROI in Testing Strategies". <em>Enterprise Software Quarterly</em>, 8(4), 89-107. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-21" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[21]</span> Garcia, L. (2024). "Measuring ROI in Testing Strategies". <em>Enterprise Software Quarterly</em>, 8(4), 89-107. <a href="#cite-21" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-22" className="pl-6 -indent-6">2
-            <span className="font-semibold text-slate-200">[22]</span> Robinson, E. (2025). "Contract Testing as Strategic Initiative". <em>Technical Leadership Journal</em>, 16(1), 34-52. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-22" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[22]</span> Robinson, E. (2025). "Contract Testing as Strategic Initiative". <em>Technical Leadership Journal</em>, 16(1), 34-52. <a href="#cite-22" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-23" className="pl-6 -indent-6">3
-            <span className="font-semibold text-slate-200">[23]</span> Evans, D. (2024). "Future of Distributed System Testing". <em>IEEE Software</em>, 41(6), 78-87. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-23" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[23]</span> Evans, D. (2024). "Future of Distributed System Testing". <em>IEEE Software</em>, 41(6), 78-87. <a href="#cite-23" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-24" className="pl-6 -indent-6">4
-            <span className="font-semibold text-slate-200">[24]</span> Moore, J. (2025). "Adaptive Architecture Patterns". <em>ACM Computing Surveys</em>, 57(2), 1-35. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-24" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[24]</span> Moore, J. (2025). "Adaptive Architecture Patterns". <em>ACM Computing Surveys</em>, 57(2), 1-35. <a href="#cite-24" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-25" className="pl-6 -indent-6">5
-            <span className="font-semibold text-slate-200">[25]</span> Bell, R. (2024). "Competitive Advantage Through Testing". <em>Software Strategy Review</em>, 19(3), 112-128. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-25" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[25]</span> Bell, R. (2024). "Competitive Advantage Through Testing". <em>Software Strategy Review</em>, 19(3), 112-128. <a href="#cite-25" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-26" className="pl-6 -indent-6">6
-            <span className="font-semibold text-slate-200">[26]</span> Turner, K. (2025). "Strategic Software Engineering Evolution". <em>Journal of Software Excellence</em>, 13(2), 67-84. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-26" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[26]</span> Turner, K. (2025). "Strategic Software Engineering Evolution". <em>Journal of Software Excellence</em>, 13(2), 67-84. <a href="#cite-26" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-27" className="pl-6 -indent-6">7
-            <span className="font-semibold text-slate-200">[27]</span> Grant, M. (2024). "Resilient System Design Through Testing". <em>Architecture Review Quarterly</em>, 21(4), 45-63. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-27" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[27]</span> Grant, M. (2024). "Resilient System Design Through Testing". <em>Architecture Review Quarterly</em>, 21(4), 45-63. <a href="#cite-27" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
-          <li id="ref-28" className="pl-6 -indent-6">8
-            <span className="font-semibold text-slate-200">[28]</span> Walsh, P. (2025). "Modern Software Development Landscape". <em>Technology Trends Report</em>, Annual Edition, 234-251. <a href="#cite-NUM" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
+          <li id="ref-28" className="pl-6 -indent-6">
+            <span className="font-semibold text-slate-200">[28]</span> Walsh, P. (2025). "Modern Software Development Landscape". <em>Technology Trends Report</em>, Annual Edition, 234-251. <a href="#cite-28" className="text-blue-400 hover:text-blue-300 text-xs ml-2">↑</a>
           </li>
         </ol>
       </section>
